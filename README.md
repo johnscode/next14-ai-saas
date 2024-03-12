@@ -1,6 +1,6 @@
 An AI SaaS built using in next 14 that makes a great boilerplate to build your own SaaS.
 
-This repo is an implementation of [next13-ai-saas](https://github.com/AntonioErdeljac/next13-ai-saas) 
+This repo is an implementation of [next13-ai-saas](https://github.com/AntonioErdeljac/next13-ai-saas)  from Antonio Erdeljac's original tutorial.
 I have updated it to use next-14 and made some modifications, notably using local postgres rather than a cloud db.  Likely to add features as more AI models 
 get released to the community. 
 
